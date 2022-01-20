@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="./img/binpar_logo.png" />
-  <br />
 </p>
 
 ## Introducción
