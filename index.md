@@ -7,8 +7,8 @@
 
 ## Introducción
 
-Prueba. Más cotenido. Y más.
+Prueba. Más contenido. Y más.
 
 ## Contenidos
 
-- [Bi-Productive](./bi-productive.md)
+- [Bi-Productive](./projects/bi-productive.md)
