@@ -1,16 +1,12 @@
-# Plantilla para informe de proyecto publicado
+# IV Megasimulacro
 
 ## Descripción del Proyecto
 
-El Megasimulacro es un proyecto de Editorial Médica Panamericana para preparar a los opositores del MIR proponiéndoles un simulacro online del examen con preguntas simulares.
+El Megasimulacro es un proyecto anual (este año ha sido la IV edición) de EMP (Editorial Médica Panamericana) para preparar a los opositores del MIR proponiéndoles un simulacro online con preguntas similares a las que van a encontrarse en el examen real. Aunque está enfocado para las personas que se presentan este año al MIR, se puede presentar cualquiera que quiera probar sus conocimientos de cara al MIR, realizando luego desde EMP la comprobación de quiénes están admitidos al MIR de este año para dividir los resultados entre los MIR y no MIR.
 
-Retos del proyecto.
+<img src="https://user-images.githubusercontent.com/5817146/150366695-1d1d3ef2-8bb3-42d9-bf38-aa26b0819665.png" height="275"> <img src="https://user-images.githubusercontent.com/5817146/150365848-c9f3e8eb-a8df-4bbc-9f38-330fb2bf726f.png" height="275"> <img src="https://user-images.githubusercontent.com/5817146/150365941-3d29a29e-e98d-42e1-ba6f-7d07c6dc0636.png" height="275"> <img src="https://user-images.githubusercontent.com/5817146/150365397-b1da4b5e-3ce2-4a4b-9f34-dc905ffc273d.png" height="275"> <img src="https://user-images.githubusercontent.com/5817146/150364635-69dead84-3ba2-43cc-932a-b7132810b8aa.png" height="275">
 
-![image](https://user-images.githubusercontent.com/5817146/150366695-1d1d3ef2-8bb3-42d9-bf38-aa26b0819665.png)
-![image](https://user-images.githubusercontent.com/5817146/150365848-c9f3e8eb-a8df-4bbc-9f38-330fb2bf726f.png)
-![image](https://user-images.githubusercontent.com/5817146/150365941-3d29a29e-e98d-42e1-ba6f-7d07c6dc0636.png)
-![image](https://user-images.githubusercontent.com/5817146/150365397-b1da4b5e-3ce2-4a4b-9f34-dc905ffc273d.png)
-![image](https://user-images.githubusercontent.com/5817146/150364635-69dead84-3ba2-43cc-932a-b7132810b8aa.png)
+Es el mismo proyecto que en años anteriores. Principalmente los trabajos consisten en cambiar los emails, las imágenes de la landing, los parámetros variables (fechas, edición, duración del examen, número de preguntas, notas del último MIR...) e incorporar los cambios pedidos desde EMP o detectados por BinPar el año anterior para que los usuarios puedan realizar el test sin problemas. Los dos principales cambios este año han sido añadir el campo Curso y marcar el campo Móvil como opcional en la landing de inscripción y cambiar todas las fechas a formato UTC para evitar problemas con la hora de fin en otras zonas horarias.
 
 Este proyecto dispone de una beta para testing: https://megasimulacro.binpar.cloud
 
@@ -25,7 +21,9 @@ Se han extraído los siguientes datos de los registros guardados en la base de d
 
 ## Aprendizaje
 
-Descripción del conocimiento adquirido en el proceso a nivel desarrollo, gestión, comunicación con cliente, ...
+Al no haber apenas documentación sobre el proyecto en ClickUp y no encontrarse ya en la empresa la persona encargada del III Megasimulacro, había una laguna de conocimientos sobre el funcionamiento general del proyecto y de los procesos manuales del mismo de los que se encarga BinPar. Esto se solventó revisando funcionamientos en el código, revisando tasks del año pasado y consultando procedimientos con EMP.
+
+Por circunstancias ajenas, nadie del Departamento de Diseño se pudo encargar de la maquetación de los mails ni de los últimos ajustes de la landing, como el responsive de la sección de premios, así que tuve que maquetarlos yo, aprendiendo algunos conceptos de diseño en el proceso, como a insertar links en imágenes usando Image Map.
 
 ## Problemas Detectados
 
@@ -126,3 +124,7 @@ Una vez desplegado en producción, se detectaron los siguientes problemas:
 Posibles desarrollos futuros que podrían mejorar el producto
 
 Posibles mejoras en los procesos
+
+##
+
+**Informe realizado por Beatriz Ortega de Pedro, desarrolladora y responsable del proyecto en el momento de redactar el informe (20/01/2022).**
