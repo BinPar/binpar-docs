@@ -51,7 +51,7 @@ Una vez desplegado en producción, se detectaron los siguientes problemas:
 
   - Problema:
   
-    Puntualmente, al registrarse en la landing, no llegaba a finalizar el registro, dejando permanentemente el mensaje: *Su peticion está siendo procesada, por favor, espere.*
+    Puntualmente, al registrarse en la landing, no llegaba a finalizar el registro, dejando permanentemente el mensaje: *Su petición está siendo procesada, por favor, espere.*
   
   - Usuarios afectados de los que tenemos constancia: 
     
@@ -121,10 +121,68 @@ Una vez desplegado en producción, se detectaron los siguientes problemas:
 
 ## Posibles Mejoras
 
-Posibles desarrollos futuros que podrían mejorar el producto
+De cara al año que viene se han propuesto las siguientes mejoras desde BinPar:
 
-Posibles mejoras en los procesos
+- [Actualizar paquetes del MS](https://app.clickup.com/t/2401e54):
 
+  El próximo año habría que dedicar una jornada a actualizar y revisar los cambios para que no rompan nada. Se desconoce si esto se ha actualizado algún año, aunque creo que al menos no se actualizó para el III y el IV Megasimulacro.
+  
+- [Revisar error de common.json](https://app.clickup.com/t/2401dq7):
+  
+  Aunque no parece un error grave, ya que por lo comentado con el equipo ya se había dado en años anteriores, hay que revisar y solucionar el error relacionado con common.json, ya que algunos de los fallos notificados coincidían con logs con este error, por lo que pueden estar relacionados o tener la misma causa.
+
+- [Añadir url examen en listado de inscritos](https://app.clickup.com/t/2401cz4):
+
+  Añadir la url de acceso al examen de cada usuario en el listado de inscritos que descarga EMP. Con esto nos ahorramos las peticiones de EMP del link del examen cuando a un usuario no le llega el mail de inicio.
+  
+- [Revisar hora límite para iniciar MS](https://app.clickup.com/t/2401d8z):
+  
+  Se ha abierto esta task para revisar el procedimiento con EMP de cara al año que viene, ya que se pidió que no se pudiese acceder al Megasimulacro a menos de cuatro horas y media del fin del mismo pero cuando llegó el momento reclamaban que los usuarios no podían acceder, por lo que habría que revisar para decidir el protocolo y que todas las partes lo tengan claro.
+  
+Por su parte, EMP ha hecho las siguientes peticiones:
+
+- [Mostrar temporizador en el examen](https://app.clickup.com/t/2401cmf):
+  
+  Este año no se mostraba el temporizador con el tiempo disponible para hacer el examen, aunque en años anteriores sí que salía. Solicitan revisarlo para que salga el próximo año. Hay que revisar ya que no se ha tocado nada relacionado este año. De hecho, yo desconocía que existía un temporizador y desde EMP no hablaron de él hasta empezado el Megasimulacro en producción.
+  
+- [No mostrar resultados hasta fecha indicada](https://app.clickup.com/t/2401dzp):
+
+  Solicitan que el ranking de los resultados no esté disponible hasta una fecha especificada, para que EMP pueda revisar los resultados y detectar posibles fraudes.
+
+También habrá que insistir más en el proceso de testing por parte de EMP, ya que algunos problemas se detectaron ya en producción debido a un testing poco riguroso.
+
+Además, dado que uno de los problemas era la falta de conocimiento de los procesos necesarios antes y durante el Megasimulacro, se ha añadido en clickup el siguiente guion de acciones que hay que realizar todos los años:
+
+**Tareas obligatorias antes de cada Megasimulacro**:
+
+- Actualizar paquetes del MS.
+
+- Borrar usuarios del año pasado de DB. Hablar con EMP para ver si es necesario backup de los usuarios del año pasado.
+
+- Actualizar settings con los datos del MS.
+
+- Actualizar contraseña de landing de administración.
+
+**Acciones requeridas durante el Megasimulacro**:
+
+- Dar de alta alumnos MIR y no MIR:
+  El día anterior al inicio por la tarde y todas las mañanas cuando pasen el listado.
+  
+- Envío mails inicio:
+  A la hora de inicio.
+  
+- Primer recordatorio:
+  Definido por EMP.
+  
+- Segundo recordatorio:
+  Definido por EMP.
+  
+- Agradecimiento MIR y no MIR:
+  A la hora del fin.
+  
+- Obtener el json con las notas de los alumnos que finalizaron el MS para actualizarlo en el proyecto:
+  A la hora del fin.
+  
 ##
 
-**Informe realizado por Beatriz Ortega de Pedro, desarrolladora y responsable del proyecto en el momento de redactar el informe (20/01/2022).**
+**Informe realizado por Beatriz Ortega de Pedro, desarrolladora de esta edición y responsable del proyecto en el momento de redactar el informe (20/01/2022).**
