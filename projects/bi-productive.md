@@ -30,9 +30,11 @@ Cuando hablamos de día, hablamos del tiempo transcurrido entre las 8:15 de ese 
 
 En general, cualquiera tarea, para ser computada por el micro-servicio debe tener:
 
-- Debe estar cerrada-
 - Misión establecida.
 - Debe ser facturable.
+
+Si además está estimada y cerrada, será procesada el día que se cierre y computado el tiempo estimado si la misión tiene tiempo disponible.
+La otra opción para ser procesada es que tenga tags que hagan que se compute el tiempo imputado (sin estimación ni *energy*).
 
 > Qué entendemos por tarea cerrada?
 
