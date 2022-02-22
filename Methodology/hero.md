@@ -6,7 +6,9 @@ sobre quién presta soporte a un compañero procedemos a implantar el modelo de 
 Para ello, crearemos un nuevo rol **Hero** en Discord, rotativo entre los perfiles con más experiencia de la empresa, en este caso, Miguel Rodríguez, Marcos González, 
 Alberto Blanco y Kevin Muñoz.
 
-El proceso de rotación será diario y el protocolo será a través del cambio manual del rol por parte de Isabel justo antes de la Daily de BinPar.
+El proceso de rotación será diario y el protocolo será a través del cambio manual del rol en Discord por parte de Isabel justo antes de la Daily de BinPar.
+
+Si se produce una ausencia de la persona a la que le tocaría ser el Hero del día directamente pasará al siguiente en el orden pre-establecido.
 
 En caso de que el Hero no pueda resolver una problemática determinada podría elevar la consulta al Director Técnico.
 
