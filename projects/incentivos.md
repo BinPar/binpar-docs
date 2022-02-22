@@ -18,7 +18,7 @@ En este caso 6 personas habrían conseguido superar su objetivo en este periodo 
 
 Para calcular el importe de los incentivos personales habrá que multiplicar el valor de estos puntos, si son positivos, por el **coeficiente de cada recurso**.
 
-Isabel comuncará a cada recurso su coeficiente. Seguramente a futuro esta información estará integrada en Bi-Productive.
+Isabel comunicará a cada recurso su coeficiente. Seguramente a futuro esta información estará integrada en Bi-Productive.
 
 Este importe se sumará a la nómina del mes siguiente al calculado.
 
