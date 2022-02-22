@@ -25,3 +25,9 @@ En BinPar, como sabemos, existen 3 tipos de perfiles dentro del equipo de produc
 En este caso los incentivos aplicarían tanto a los perfiles Analistas como a los perfiles Senior.
 
 En el caso de los perfiles Junior su objetivo principal es crecer para pasar a ser perfiles Analistas lo antes posible, pero siempre con la tarea de afianzar los conceptos aplicados en el día a día de trabajo.
+
+## Mejoras a Futuro
+
+Se plantearán incentivos adicionales para los jefes de proyecto que logren realizar la entrega del proyecto potenciando el menor consumo de puntos posibles y asegurando la calidad necesaria de los proyectos de BinPar.
+
+Estamos trabajando internamente en este modelo.
