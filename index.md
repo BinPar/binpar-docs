@@ -18,6 +18,7 @@ Todo lo relativo a los proyectos de BinPar, principalmente documentación y repo
 Documentación de proyectos de BinPar:
 
 - [Bi-Productive](./projects/bi-productive.md)
+- [Sistema de Incentivos](./projects/incentivos.md)
 
 ### Reportes
 
