@@ -8,11 +8,11 @@ Febrero de 2022 será el **primer mes con incentivos** en BinPar y marzo 2022 la
 
 Una vez delimitado el rango de fechas tan solo debemos ver el estado de la fila de cada recurso donde en la última columna se hará de forma automática el sumatorio de puntos por encima o por debajo del reto personal.
 
-Por ejemplo este sería el estado del mes de octubre:
+Por ejemplo este sería el estado de una semana del mes de Febrero:
 
-![image](https://user-images.githubusercontent.com/17255550/155086330-042039b4-41b9-4561-8c97-0d16dba5f19f.png)
+![image](https://user-images.githubusercontent.com/17255550/155086832-883f2667-d61f-4455-b2f2-1bc4550e2e9e.png)
 
-3 personas habrían conseguido objetivos en este periodo con valores de +10,5 puntos, 7,47 puntos y 6,21 puntos respectivamente.
+6 personas habrían conseguido objetivos en este periodo con valores de +17,24 puntos, 10,25 puntos, 0,75 puntos, 0,59 puntos, 0,45 puntos y 0,25 puntos respectivamente.
 
 Para calcular el importe de los incentivos personales habrá que multiplicar el valor de estos puntos, si son positivos, por el coeficiente de cada recurso.
 
