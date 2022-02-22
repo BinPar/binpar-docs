@@ -14,6 +14,8 @@ En caso de que el Hero no pueda resolver una problemática determinada podría e
 
 La atención se llevará a cabo todos los días en horario de trabajo.
 
+Se podrá solicitar la atención del Hero en la Daily o directamente mencionando el rol (@hero) en el hilo correspondiente de Discord.
+
 ## Requisitos necesarios para solicitar atención al Hero
 
 En primer lugar, es necesaria la creación de un task en ClickUp con la definición concisa del problema a resolver así como toda la información disponible para
