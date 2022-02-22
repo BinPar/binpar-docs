@@ -16,6 +16,8 @@ Por ejemplo este sería el estado de una semana del mes de Febrero:
 
 Para calcular el importe de los incentivos personales habrá que multiplicar el valor de estos puntos, si son positivos, por el coeficiente de cada recurso.
 
+Isabel comuncará a cada recurso su coeficiente. Seguramente a futuro esta información estará integrada en Bi-Productive.
+
 Este importe se sumará a la nómina del mes siguiente al calculado.
 
 ## Perfiles a los que aplica
@@ -25,6 +27,8 @@ En BinPar, como sabemos, existen 3 tipos de perfiles dentro del equipo de produc
 En este caso los incentivos aplicarían tanto a los perfiles Analistas como a los perfiles Senior.
 
 En el caso de los perfiles Junior su objetivo principal es crecer para pasar a ser perfiles Analistas lo antes posible, pero siempre con la tarea de afianzar los conceptos aplicados en el día a día de trabajo.
+
+Hay perfiles excepcionales que tienen su propio sistema de incentivos y por lo tanto no participarán en este.
 
 ## Mejoras a Futuro
 
