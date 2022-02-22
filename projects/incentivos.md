@@ -14,9 +14,9 @@ Por ejemplo este sería el estado de una semana del mes de Febrero:
 
 ![image](https://user-images.githubusercontent.com/17255550/155086832-883f2667-d61f-4455-b2f2-1bc4550e2e9e.png)
 
-6 personas habrían conseguido objetivos en este periodo con valores de +17,24 puntos, 10,25 puntos, 0,75 puntos, 0,59 puntos, 0,45 puntos y 0,25 puntos respectivamente.
+En este caso 6 personas habrían conseguido superar su objetivo en este periodo con valores de +17,24 puntos, 10,25 puntos, 0,75 puntos, 0,59 puntos, 0,45 puntos y 0,25 puntos respectivamente.
 
-Para calcular el importe de los incentivos personales habrá que multiplicar el valor de estos puntos, si son positivos, por el coeficiente de cada recurso.
+Para calcular el importe de los incentivos personales habrá que multiplicar el valor de estos puntos, si son positivos, por el **coeficiente de cada recurso**.
 
 Isabel comuncará a cada recurso su coeficiente. Seguramente a futuro esta información estará integrada en Bi-Productive.
 
