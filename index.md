@@ -13,7 +13,7 @@ Nuestra idea es ir incorporando guías y documentación sobre varios aspectos de
 
 La metodología BinPar, *the BinPar Way*, la forma en la que hacemos las cosas:
 
-- [Modelo de atención **Hero**](./methodology/hero.md)
+- [Modelo de asistencia **Hero**](./methodology/hero.md)
 
 ## Proyectos
 
