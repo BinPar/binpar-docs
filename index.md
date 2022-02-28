@@ -7,7 +7,13 @@
 
 ## Introducción
 
-Prueba. Más contenido. Y más.
+Nuestra idea es ir incorporando guías y documentación sobre varios aspectos de la empresa. Si echas de menos cualquier tema, proyecto o reporte que consideras que ayudaría a cualquier aspecto del trabajo en BinPar, por favor haznos llegar tu petición para que podamos incorporarlo.
+
+## Metodología
+
+La metodología BinPar, *the BinPar Way*, la forma en la que hacemos las cosas:
+
+- [Modelo de atención **Hero**](./methodology/hero.md)
 
 ## Proyectos
 
