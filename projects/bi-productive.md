@@ -1,4 +1,5 @@
 <!-- markdownlint-disable MD041 -->
+<!-- markdownlint-disable MD033 -->
 [Volver](../index.md)
 
 # Bi-Productive
@@ -323,3 +324,12 @@ Para ello hemos enlazado con un repositorio público llamado `binpar-docs` donde
 No es necesario entrar en detalle puesto que en la página principal de esta sección aparecen los puntos clave a tener en cuenta para usar correctamente este desarrollo y en ese mismo lugar iremos añadiendo igualmente cualquier nuevo punto a tener en cuenta.
 
 Si estás interesado en añadir la documentación o realizar un post-mortem de tu proyecto, pídenos acceso al repositorio (es público pero para editar necesitarás que te demos acceso).
+
+
+## Presentación
+
+Por último, compartimos aquí el vídeo de la presentación del proyecto al equipo de BinPar:
+
+<video controls title="Presentación Bi-Productive">
+  <source src="https://binpar.s3.eu-west-1.amazonaws.com/presentations/bi-productive.mkv">
+</video>

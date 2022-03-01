@@ -26,6 +26,15 @@ Documentación de proyectos de BinPar:
 - [Bi-Productive](./projects/bi-productive.md)
 - [Sistema de Incentivos](./projects/incentivos.md)
 
+### Presentaciones
+
+<details>
+  <summary>Bi-Productive</summary>
+  <video controls title="Presentación Bi-Productive">
+    <source src="https://binpar.s3.eu-west-1.amazonaws.com/presentations/bi-productive.mkv">
+  </video>
+</details>
+
 ### Reportes
 
 Reportes de proyectos de BinPar:
