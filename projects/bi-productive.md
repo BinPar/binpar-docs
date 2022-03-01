@@ -5,6 +5,8 @@
 
 Documentación del proyecto Bi-Productive, principalmente de la plataforma web y de la lógica asociada al micro-servicio que genera la información que en ella se muestra.
 
+Realizada sobre la v1.6.5.
+
 ## Acceso
 
 Para acceder a la plataforma será necesario autenticarse a través de GitHub.
@@ -30,7 +32,7 @@ Cuando hablamos de día, hablamos del tiempo transcurrido entre las 8:15 de ese 
 
 En general, cualquiera tarea, para ser computada por el micro-servicio debe tener:
 
-- Debe estar cerrada-
+- Debe estar cerrada.
 - Misión establecida.
 - Debe ser facturable.
 
