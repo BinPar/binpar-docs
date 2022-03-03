@@ -35,6 +35,13 @@ Documentación de proyectos de BinPar:
   </video>
 </details>
 
+<details>
+  <summary>Read Garden Libranda</summary>
+  <video controls title="Presentación Read Garden para proyectos libranda">
+    <source src="https://binpar.s3.eu-west-1.amazonaws.com/presentations/read-garden-libranda.mkv">
+  </video>
+</details>
+
 ### Reportes
 
 Reportes de proyectos de BinPar:
