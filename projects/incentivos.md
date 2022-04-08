@@ -32,7 +32,7 @@ En el caso de los perfiles Junior su objetivo principal es crecer para pasar a s
 
 Hay perfiles excepcionales que tienen su propio sistema de incentivos y por lo tanto **no** participarán de este modelo.
 
-## Sistema para Jefes de Proyecto
+## Incentivos para Jefes de Proyecto
 
 Un jefe de proyecto obtendrá incentivos siempre que al finalizar la fase de **garantía** del proyecto haya puntos que han quedado sin consumir de los puntos totales, es decir **puntos restantes**.
 
