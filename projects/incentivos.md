@@ -32,8 +32,18 @@ En el caso de los perfiles Junior su objetivo principal es crecer para pasar a s
 
 Hay perfiles excepcionales que tienen su propio sistema de incentivos y por lo tanto **no** participarán de este modelo.
 
-## Mejoras a Futuro
+## Sistema para Jefes de Proyecto
 
-Se plantearán incentivos adicionales para los **jefes de proyecto** que logren realizar la entrega del proyecto potenciando el menor consumo de puntos posibles y asegurando la **calidad** necesaria de los proyectos de BinPar.
+Un jefe de proyecto obtendrá incentivos siempre que al finalizar la fase de **garantía** del proyecto haya puntos que han quedado sin consumir de los puntos totales, es decir **puntos restantes**.
 
-Estamos trabajando internamente en este modelo.
+Para consultar esta cifra tiene que ir a la sección de proyectos de Bi productive y acceder al proyecto que tiene asignado como JP. 
+
+En el siguiente ejemplo el JP obtendría 99 puntos. 
+
+![image](https://user-images.githubusercontent.com/17255550/162395774-4ec0ba44-15c8-41c2-977a-88aebb411026.png)
+
+La fase de garantía se establecerá con el cliente en cada proyecto.
+
+Esos puntos se canjearán por el coeficiente personal del JP y serán abonados en la nómina del mes siguiente. 
+
+Los proyectos en los que se aplicará este sistema de incentivos de momento serán los definidos como **Desarrollos a Precio Cerrado** y que se hayan iniciado a partir del 15 de abril del 2022.
