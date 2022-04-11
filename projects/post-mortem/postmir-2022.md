@@ -10,12 +10,12 @@ y convertirlo en un proyecto actualizado y depurado.
 
 Adición de capturas de pantalla del mismo.
 
-<img src="img/home.webp" height="275" />
-<img src="img/exam.webp" height="275" />
-<img src="img/question.webp" height="275" />
-<img src="img/ranking.webp" height="275" />
-<img src="img/plazas.webp" height="275" />
-<img src="img/impugnaciones.webp" height="275" />
+<img src="https://raw.githubusercontent.com/BinPar/binpar-docs/develop/img/home.webp" height="275" />
+<img src="https://raw.githubusercontent.com/BinPar/binpar-docs/develop/img/exam.webp" height="275" />
+<img src="https://raw.githubusercontent.com/BinPar/binpar-docs/develop/img/question.webp" height="275" />
+<img src="https://raw.githubusercontent.com/BinPar/binpar-docs/develop/img/ranking.webp" height="275" />
+<img src="https://raw.githubusercontent.com/BinPar/binpar-docs/develop/img/plazas.webp" height="275" />
+<img src="https://raw.githubusercontent.com/BinPar/binpar-docs/develop/img/impugnaciones.webp" height="275" />
 
 Android: https://play.google.com/store/apps/details?id=com.binpar.postmir&hl=en&gl=US
 
