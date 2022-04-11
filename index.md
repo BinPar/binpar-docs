@@ -49,3 +49,4 @@ Reportes de proyectos de BinPar:
 #### Post Mortem
 
 - [Megasimulacro PROMIR](./projects/post-mortem/megasimulacro.md)
+- [PostMIR 2022](./projects/post-mortem/postmir-2022.md)
