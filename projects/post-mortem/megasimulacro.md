@@ -8,7 +8,9 @@ Este proyecto tiene dos fases bastante diferenciadas: el periodo de inscripción
 
 A nivel interno, también consta de dos partes: web y api. En la web es donde está la landing y las imágenes de los mails, mientras que la api es la que procesa las peticiones de la web, actualiza la información de la base de datos y manda los mails.
 
+<div class="imgWrapper">
 <img src="https://user-images.githubusercontent.com/5817146/150366695-1d1d3ef2-8bb3-42d9-bf38-aa26b0819665.png" height="275"> <img src="https://user-images.githubusercontent.com/5817146/150365848-c9f3e8eb-a8df-4bbc-9f38-330fb2bf726f.png" height="275"> <img src="https://user-images.githubusercontent.com/5817146/150365941-3d29a29e-e98d-42e1-ba6f-7d07c6dc0636.png" height="275"> <img src="https://user-images.githubusercontent.com/5817146/150365397-b1da4b5e-3ce2-4a4b-9f34-dc905ffc273d.png" height="275"> <img src="https://user-images.githubusercontent.com/5817146/150364635-69dead84-3ba2-43cc-932a-b7132810b8aa.png" height="275">
+</div>
 
 Es el mismo proyecto que en años anteriores. Principalmente los trabajos consisten en cambiar los emails, las imágenes de la landing, los parámetros variables (fechas, edición, duración del examen, número de preguntas, notas del último MIR...) e incorporar los cambios pedidos desde EMP o detectados por BinPar el año anterior para que los usuarios puedan realizar el test sin problemas. Los dos principales cambios este año han sido añadir el campo Curso y marcar el campo Móvil como opcional en la landing de inscripción y cambiar todas las fechas a formato UTC para evitar problemas con la hora de fin en otras zonas horarias.
 
