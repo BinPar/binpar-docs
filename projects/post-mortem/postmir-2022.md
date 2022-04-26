@@ -10,7 +10,7 @@ y convertirlo en un proyecto actualizado y depurado.
 
 Adición de capturas de pantalla del mismo.
 
-<div>
+<div class="imgWrapper">
   <img src="https://raw.githubusercontent.com/BinPar/binpar-docs/develop/img/home.webp" height="275" />
   <img src="https://raw.githubusercontent.com/BinPar/binpar-docs/develop/img/exam.webp" height="275" />
   <img src="https://raw.githubusercontent.com/BinPar/binpar-docs/develop/img/question.webp" height="275" />
