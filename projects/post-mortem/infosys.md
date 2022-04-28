@@ -1,13 +1,14 @@
 # PostMorten Infosys
 
 ## Descripción del Proyecto
+
 Desde nuestro cliente [IE](https://www.ie.edu/es/) nos contactan para la realización de un nuevo **caso multimedia** tras el éxito del entregado en 2020, **LaLaLand**.
 
-El objetivo principal del cliente es formar a sus alumnos en temáticas concretas, en este caso acerca del concepto “Six Pilar Model”, a través de casos multimedia con casos prácticos reales.
+El objetivo principal del cliente es formar a sus alumnos en temáticas concretas, en este caso concreto acerca del concepto “**Six Pilar Model**”, a través de casos multimedia entretenidos y con gran componente técnica apoyados en información práctica con empresas reales.
 
-La idea creativa detrás del multimedia era la creación de una **animación 360** (o una imagen con elementos en movimiento para hacerlo más atractivo visualmente) , con las instalaciones principales del campus de Infosys. 
+La idea creativa detrás del multimedia era la creación de una **animación 360**, con las instalaciones principales del campus de Infosys. 
 
-Cada sección corresponderá a una sala con una foto 360, donde si el alumno gira, le irán apareciendo elementos clickables para consumir la información del caso.
+Cada sección correspondería a una sala con una foto 360, donde si el alumno gira, le irán apareciendo elementos clickables para consumir la información del caso.
 
 Este cliente se caracteriza por una elevada exigencia en cuanto a requisitos técnicos, algunos de los más relevantes eran:
 
