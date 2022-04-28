@@ -21,6 +21,9 @@ Este cliente se caracteriza por una elevada exigencia en cuanto a requisitos té
 * En ningún caso se debe usar recursos del servidor para ejecutar el material
 * Es requisito un vídeo en loop del campus en la portada del caso
 
+A continuación se muestran alguna imágenes del resultado:
+
+![Screenshot 2022-04-28 at 12 50 38](https://user-images.githubusercontent.com/17255550/165736727-33a2fdf9-50ce-45ce-ba35-092423ae1f34.png)
 
 ## Resultados
 El material multimedia se empleará dentro de las **clases teóricas** en los Programas del IE. 
