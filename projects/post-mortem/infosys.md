@@ -5,7 +5,7 @@ En el año 2020 trabajamos por primera vez con el [IE](https://www.ie.edu/es/) e
 
 Gracias al **éxito** de aquel primer proyecto surge esta segunda oportunidad, que a diferencia del caso anterior comienza con una **alta confianza** por parte del cliente desde el primer momento que facilita la comunicación y el desarrollo de este segundo proyecto.
 
-El objetivo principal del cliente es formar a sus alumnos en temáticas concretas, en este caso concreto acerca del concepto “**Six Pilar Model**”, a través de casos multimedia entretenidos y con gran componente técnica apoyados en información práctica con empresas reales.
+El objetivo principal del cliente es formar a sus alumnos en temáticas concretas, en este caso concreto acerca del concepto “**Six Pilar Model**”, a través de casos multimedia entretenidos y con gran componente técnica apoyados en información práctica con empresas reales, en este caso Infosys.
 
 La idea creativa detrás del multimedia era la creación de una **animación 360**, con las instalaciones principales del campus de Infosys. 
 
