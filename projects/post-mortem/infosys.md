@@ -1,7 +1,9 @@
 # PostMorten Infosys
 
 ## Descripción del Proyecto
-Desde nuestro cliente [IE](https://www.ie.edu/es/) nos contactan para la realización de un nuevo **caso multimedia** tras el éxito del entregado en 2020, **LaLaLand**.
+En el año 2020 trabajamos por primera vez con el [IE](https://www.ie.edu/es/) en la realización de un caso multimedia denominado **LaLaLand**, tras un largo proceso comercial previo para convertirnos en proveedor oficial del IE.
+
+Gracias al **éxito** de aquel primer proyecto surge esta segunda oportunidad, que a diferencia del caso anterior comienza con una **alta confianza** por parte del cliente desde el primer momento que facilita la comunicación y el desarrollo de este segundo proyecto.
 
 El objetivo principal del cliente es formar a sus alumnos en temáticas concretas, en este caso concreto acerca del concepto “**Six Pilar Model**”, a través de casos multimedia entretenidos y con gran componente técnica apoyados en información práctica con empresas reales.
 
