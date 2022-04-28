@@ -1,7 +1,6 @@
 # PostMorten Infosys
 
 ## Descripción del Proyecto
-
 Desde nuestro cliente [IE](https://www.ie.edu/es/) nos contactan para la realización de un nuevo **caso multimedia** tras el éxito del entregado en 2020, **LaLaLand**.
 
 El objetivo principal del cliente es formar a sus alumnos en temáticas concretas, en este caso concreto acerca del concepto “**Six Pilar Model**”, a través de casos multimedia entretenidos y con gran componente técnica apoyados en información práctica con empresas reales.
@@ -41,8 +40,12 @@ Durante esta fase inicial del proyecto cargamos todos los contenidos que tuviero
 
 En la fase inicial también se negoció con el cliente la posibilidad de no incluir Internet Explorer como navegador objetivo del caso.
 
+También cabe destacar que ha sido unos de los primeros proyectos donde hemos empleado [Tailwind](https://tailwindcss.com/).
+
 ## Problemas Detectados
 En este proyecto hemos aprovechado el aprendizaje que obtuvimos en la ejecución del caso multimedia de LaLaLand, ya que compartían los principales requisitos técnicos.
+
+Por ejemplo, en LaLaLand nos había exigido la utilización de vídeojs como reproductor de vídeos, y la experiencia no fue la mejor posible por lo que en este proyecto propusimos emplear directamente el tag de HTML5.
 
 ## Posibles Mejoras
 
