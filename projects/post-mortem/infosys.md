@@ -43,6 +43,6 @@ En la fase inicial también se negoció con el cliente la posibilidad de no incl
 ## Problemas Detectados
 En este proyecto hemos aprovechado el aprendizaje que obtuvimos en la ejecución del caso multimedia de LaLaLand, ya que compartían los principales requisitos técnicos.
 
-
-
 ## Posibles Mejoras
+
+Deberíamos haber anticipado el momento en que damos por finalizada la fase de experimentación y avance en el modelo de Labs, ya que debería haber sido más corta.
