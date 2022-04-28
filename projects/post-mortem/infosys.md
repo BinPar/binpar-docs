@@ -25,6 +25,8 @@ A continuación se muestran alguna imágenes del resultado:
 
 ![Screenshot 2022-04-28 at 12 50 38](https://user-images.githubusercontent.com/17255550/165736727-33a2fdf9-50ce-45ce-ba35-092423ae1f34.png)
 
+![Screenshot 2022-04-28 at 12 53 24](https://user-images.githubusercontent.com/17255550/165737148-8df50220-294d-4859-af91-86b80cc3717e.png)
+
 ## Resultados
 El material multimedia se empleará dentro de las **clases teóricas** en los Programas del IE. 
 
