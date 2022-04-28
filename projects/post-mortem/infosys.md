@@ -1,5 +1,4 @@
 # PostMorten Infosys
-#BinPar/Presupuestos/IE
 
 ## Descripción del Proyecto
 Desde nuestro cliente [IE](https://www.ie.edu/es/) nos contactan para la realización de un nuevo **caso multimedia** tras el éxito del entregado en 2020, **LaLaLand**.
