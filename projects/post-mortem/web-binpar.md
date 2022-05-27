@@ -18,7 +18,7 @@ A continuación se muestran alguna imágenes del resultado:
 
 <div class="imgWrapper">
   <img src="https://github.com/BinPar/binpar-docs/blob/develop/img/binparwebdark.png"  />
-  
+  <img src="https://github.com/BinPar/binpar-docs/blob/develop/img/binparweblight.png"  />
 </div>
 
 ## Resultados
