@@ -17,8 +17,8 @@ El proceso de creación y desarrollo ha promovido al equipo un pensamiento creat
 A continuación se muestran alguna imágenes del resultado:
 
 <div class="imgWrapper">
-  <img src="https://github.com/BinPar/binpar-docs/blob/develop/img/macbook-binpar.png" height="275" />
-  <img src="https://github.com/BinPar/binpar-docs/blob/develop/img/monitor-lighthouse.png" height="275" />
+  <img src="https://github.com/BinPar/binpar-docs/blob/develop/img/binparwebdark.png"  />
+  
 </div>
 
 ## Resultados
