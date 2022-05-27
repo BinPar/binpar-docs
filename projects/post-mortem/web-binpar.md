@@ -16,6 +16,11 @@ El proceso de creación y desarrollo ha promovido al equipo un pensamiento creat
 
 A continuación se muestran alguna imágenes del resultado:
 
+<div class="imgWrapper">
+  <img src="https://github.com/BinPar/binpar-docs/blob/develop/img/macbook-binpar.png" height="275" />
+  <img src="https://github.com/BinPar/binpar-docs/blob/develop/img/monitor-lighthouse.png" height="275" />
+</div>
+
 ## Resultados
 Un buen producto digital es una clave principal que hay que tener en cuenta para tener éxito en la estratégia digital. La experiencia del usuario, optimización en la usabilidad y accesibilidad fue posible tener una marca con más presencia digital y presentar al cliente nuestra fuerza tecnológica.
 
