@@ -14,7 +14,7 @@ El proceso de creación y desarrollo ha promovido al equipo un **pensamiento cre
 * Animación de elemento 3D
 * Analogías espaciales
 * Optmización del rendimiento
-* Mejora en la usabilidade y accesibilidad
+* Mejorías en la usabilidad y accesibilidad
 
 A continuación se muestran algunas imágenes del resultado:
 
@@ -29,10 +29,10 @@ Un buen producto digital es una clave principal que hay que tener en cuenta para
 ## Aprendizaje
 En este proyecto buscamos optimizar su desarrollo y trabajar con un framework CSS basado en clases altamente personalizable llamado [Tailwind](https://tailwindcss.com/).
 Durante su evolución pudimos aprender, conocer su potencial para el Frontend y ver las ventajas de su aplicación, resultando puntos positivos tanto para la creación de estilos para la interfaz como para su mantenimiento.
-Otro punto a destacar fue la búsqueda de mejorar la experiencia del usuario, creando elementos 3D y mejoras en la usabilidad y accesibilidad.
+Otro punto a destacar fue la búsqueda de evolucionar la usabilidad, creando elementos 3D para que el usuario pueda tener una **experiencia más inmersiva** y mejorar la accesibilidad.
 
 ## Problemas Detectados
-Los problemas que vimos fueron los que Lighthouse capturó y presentó que necesitaban ser cambiados. Buscamos soluciones que no afectaran el diseño de la interfaz de usuario (UI) establecido y trabajamos en cómo **equilibrar** esto con la intención de atravesar los filtros de Lighthouse.
+Los problemas que vimos fueron los que Lighthouse capturó y presentó que necesitaban seren cambiados. Buscamos soluciones que no afectaran el diseño de la interfaz de usuario (UI) establecido y trabajamos en cómo **equilibrar** estes cambios con la intención de atravesar los filtros de Lighthouse.
 
 ## Posibles Mejoras
 Hay páginas internas que estamos desarrollando y otras que se planean implementar (ejemplo: sobre nosotros, página de nuevos talentos y capacitación). Estas son **futuras secciones** de la web que presentarán más detalles **sobre nosotros** y nuestro potencial tecnológico.
