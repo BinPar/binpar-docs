@@ -51,4 +51,5 @@ Reportes de proyectos de BinPar:
 - [Megasimulacro PROMIR](./projects/post-mortem/megasimulacro.md)
 - [PostMIR 2022](./projects/post-mortem/postmir-2022.md)
 - [Infosys](./projects/post-mortem/infosys.md)
+- [Web de BinPar](./projects/post-mortem/web-binpar.md)
 
