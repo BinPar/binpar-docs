@@ -18,10 +18,9 @@ El proceso de creación y desarrollo ha promovido al equipo un **pensamiento cre
 
 A continuación se muestran algunas imágenes del resultado:
 
-<div class="imgWrapper">
-  <img src="raw.githubusercontent.com/BinPar/binpar-docs/develop/img/binparwebdark.png"  />
-  <img src="raw.githubusercontent.com/BinPar/binpar-docs/develop/img/binparweblight.png"  />
-</div>
+![image](https://user-images.githubusercontent.com/17255550/170959286-4658289d-a74e-4b8d-9afa-9fa5ea785247.png)
+
+![image](https://user-images.githubusercontent.com/17255550/170959360-c92f246c-94a0-44f7-a4c3-21d3eac29e42.png)
 
 ## Resultados
 Un buen producto digital es una clave principal que hay que tener en cuenta para tener éxito en la estratégia digital. Con mejorías en la experiencia del usuario y accesibilidad, fue posible tener una marca con más presencia digital y presentar al cliente nuestra **fuerza tecnológica.**
