@@ -19,7 +19,7 @@ El proceso de creación y desarrollo ha promovido al equipo un **pensamiento cre
 A continuación se muestran algunas imágenes del resultado:
 
 <div class="imgWrapper">
-  <img src="raw.githubusercontent.com/FelipeFontouraBr/BinPar/binpar-docs/develop/img/binparwebdark.png"  />
+  <img src="raw.githubusercontent.com/BinPar/binpar-docs/develop/img/binparwebdark.png"  />
   <img src="raw.githubusercontent.com/BinPar/binpar-docs/develop/img/binparweblight.png"  />
 </div>
 
