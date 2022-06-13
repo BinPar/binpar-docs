@@ -52,4 +52,5 @@ Reportes de proyectos de BinPar:
 - [PostMIR 2022](./projects/post-mortem/postmir-2022.md)
 - [Infosys](./projects/post-mortem/infosys.md)
 - [Web de BinPar](./projects/post-mortem/web-binpar.md)
+- [Read Garden Grupo A](./projects/post-mortem/grupo-a.md)
 
