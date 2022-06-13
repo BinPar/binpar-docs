@@ -22,8 +22,8 @@ Podemos considerar el desarrollo de Read Garden para Grupo A la primera integrac
 
 Algunas capturas del visor de RG para grupo A:
 
-![Bookshelf](../img/../../img/grupo-a/bookshelf.png)
-![Book](../img/../../img/grupo-a/book.png)
+![Bookshelf](https://raw.githubusercontent.com/BinPar/binpar-docs/develop/img/grupo-a/bookshelf.png)
+![Book](https://raw.githubusercontent.com/BinPar/binpar-docs/develop/img/grupo-a/book.png)
 
 
 ## Aprendizaje
