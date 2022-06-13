@@ -4,7 +4,7 @@
 
 Read Garden para Grupo A es el primer proyecto Read Garden custom que se ha desarrollado en Binpar desde que la plataforma goza de un nivel de madurez elevado.
 
-Antes de este, cabe mencionar Mi Eureka o Duana, pero estos son proyectos que se desarrollaron a la vez que Read Garden, y que sirvieron para construir la plataforma, pero en los que no se pudo llevar a cabo esa reutilización que se plantea en RG.
+Antes de este, cabe mencionar Mi Eureka o Duana, pero estos son proyectos que se desarrollaron a la vez que Read Garden, y que sirvieron para construir la plataforma, pero en los que no se pudo llevar a cabo la reutilización que se plantea en RG.
 
 ### Proyectos satélites RG
 
@@ -38,7 +38,7 @@ Como segundo punto de aprendizaje es importante destacar, que en el caso de Grup
 
 ## Problemas Detectados
 
-El problema que más desviación ha causado en este proyecto, ha sido claramente la comunicación con el cliente. En el caso de Grupo A, y en concreto Vinicius (el responsable de este proyecto por su parte) la barrera idiomática es bastante grande. Esto, en varios puntos del desarrollo ha causado que no entendiesen bien ciertas facetas del producto o que solicitasen funcionalidades que no son necesarias o que se encontraban fuera del alcance.
+El problema que más desviación ha causado en este proyecto, ha sido claramente la comunicación con el cliente. En el caso de Grupo A, y en concreto Vinicius (el responsable de este proyecto por su parte) la barrera idiomática es bastante grande. Esto, en varios puntos del desarrollo ha causado que no entendiesen bien ciertas facetas del producto o que solicitasen funcionalidades que no son necesarias y que se encontraban fuera del alcance.
 
 Por otro lado, aunque al inicio del proyecto se definió el alcance detalladamente, durante el transcurso del mismo, se han introducido funcionalidades fuera del alcance del mismo, agotando las horas disponibles antes de lo esperado, y retrasando los tiempos. Aunque en el caso de Grupo A, tenemos la suerte de poder contar con el mantenimiento mensual desde el inicio del proyecto, que nos aporta un colchón de horas adicional, estos desarrollos pueden causar una desviación que provoque que el proyecto deje de ser rentable.
 
